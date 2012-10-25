@@ -849,3 +849,8 @@ section #title .credits.right {
     display: none;
   }
 }
+
+#logo {
+  height: 250px;
+  width: 230px;
+}
